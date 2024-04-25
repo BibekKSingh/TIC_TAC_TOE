@@ -1,0 +1,5 @@
+
+The game is played on a 3x3 grid.
+Players take turns placing their (X or O) on the grid.
+The first player to get three of their marks in a row(hozizonatlly, vertivally or diagonaly) wins.
+If all spaces on the grid are filled and no player has won, the game end in a tie. 
